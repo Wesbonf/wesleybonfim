@@ -18,3 +18,9 @@
 
 ![Debian](https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-SO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📁 CONTROLE DE VERSÃO
+
+![Git](https://img.shields.io/badge/Git-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white)
